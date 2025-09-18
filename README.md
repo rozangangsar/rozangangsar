@@ -58,5 +58,3 @@ I’m a Vision & Control Programmer at Gamaforce UGM who loves try new thing. He
 
 ![snake gif](https://raw.githubusercontent.com/rozangangsar/rozangangsar/output/github-contribution-grid-snake.svg)
 ```
-
-Setup-nya memerlukan GitHub Actions tambahan; kalau mau, bilang saja dan aku buatkan workflow-nya.
