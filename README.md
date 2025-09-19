@@ -56,6 +56,6 @@ I’m a Vision & Control Programmer at Gamaforce UGM who loves try new thing. He
 
 
 
-![snake gif](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg)
-![snake gif](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/rozangangsar/rozangangsar/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/rozangangsar/rozangangsar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ```
