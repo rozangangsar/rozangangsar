@@ -39,7 +39,7 @@ I’m a Vision & Control Programmer at Gamaforce UGM who loves try new thing. He
 ## 🚀 Featured Projects
 
 * **edusafe** – Express + MongoDB app with auth & weather alerts. [Repo](https://github.com/Amelianahardianti/edusafe)
-* **fiachra24** – ROS launch & drone target detection. [Repo](https://github.com/rozangangsar/fiachra24)
+* **fiachra25** – ROS launch & drone target detection. [Repo](https://github.com/rozangangsar/fiachra24)
 
 > Update the links above with your actual repositories.
 
