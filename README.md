@@ -1,4 +1,4 @@
-# Hi, I’m Rozan Gangsar Adibrata 👋
+# Hi, I’m Rozan Gangsar Adibrata 
 
 <!-- Quick intro -->
 
