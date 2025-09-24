@@ -1,6 +1,6 @@
 # Hi, I’m Rozan Gangsar Adibrata 
 
-<!-- Quick intro -->
+
 
 I’m a Vision & Control Programmer at Gamaforce UGM who loves try new thing. Here you’ll find my projects on Express.js, MongoDB, ROS, drones, and more.
 
