@@ -29,9 +29,9 @@ I’m a Vision & Control Programmer at Gamaforce UGM who loves try new thing. He
 ## 🔧 Tech I Use
 
 * **Backend:** Node.js, Express.js
-* **DB:** MongoDB, PostgreSQL (optional)
+* **DB:** MongoDB, PostgreSQL
 * **DevOps:** Docker, GitHub Actions
-* **Robotics:** ROS/ROS2, MAVROS, ArduPilot
+* **Robotics:** ROS, MAVROS, ArduPilot
 * **Langs:** Python, JavaScript/TypeScript, C/C++
 
 ---
