@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats
 
-<!-- Streak card (shows Current Streak & Longest Streak like your screenshot) -->
+<!-- Streak card -->
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rozangangsar\&theme=dark\&hide_border=true)
 
@@ -14,11 +14,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rozangangsar\&show_icons=true\&theme=dark\&hide_border=true)
 
-<!-- Top languages (optional) -->
+<!-- Top languages -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rozangangsar\&layout=compact\&theme=dark\&hide_border=true)
 
-<!-- Trophies (optional) -->
+<!-- Trophies -->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=rozangangsar\&theme=onedark\&no-frame=true\&margin-w=10)
 
@@ -28,7 +28,7 @@
 
 * **Backend:** Node.js, Express.js
 * **DB:** MongoDB, PostgreSQL
-* **DevOps:** Docker, GitHub Actions
+* **DevOps:** Docker, GitHub Actions, Vercel, Railway
 * **Robotics:** ROS, MAVROS, ArduPilot
 * **Langs:** Python, JavaScript/TypeScript, C/C++
 
@@ -58,10 +58,10 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=fxrdhan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  /> -->
 <!-- <h2 align="center">Contribution Graph</h2> -->
 <!-- <div align="center"> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fxrdhan&theme=merko&hide_border=true&hide_title=true&custom_title=Contribution%20Graph&area=true" height="190" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rozangangsar&theme=merko&hide_border=true&hide_title=true&custom_title=Contribution%20Graph&area=true" height="190" alt="activity-graph graph"  />
 <!-- </div>
 <div align="center"> -->
-  <img src="https://raw.githubusercontent.com/fxrdhan/fxrdhan/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rozangangsar/rozangangsar/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
