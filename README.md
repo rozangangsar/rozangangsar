@@ -6,6 +6,11 @@
 
 ## 📊 GitHub Stats
 
+![Wazuh](https://img.shields.io/badge/SIEM-Wazuh-blue?style=for-the-badge&logo=wazuh)
+![Python](https://img.shields.io/badge/Automation-Python-yellow?style=for-the-badge&logo=python)
+![VirusTotal](https://img.shields.io/badge/Intelligence-VirusTotal-blueviolet?style=for-the-badge)
+![Discord](https://img.shields.io/badge/Alerts-Discord-5865F2?style=for-the-badge&logo=discord)
+
 <!-- Streak card -->
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rozangangsar\&theme=dark\&hide_border=true)
