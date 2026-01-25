@@ -3,8 +3,6 @@
 <h2 align="center">Information Technology Undergraduate Student'23 <br>Universitas Gadjah Mada</h2>
 
 ---
-
-## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rozangangsar\&theme=dark\&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rozangangsar\&show_icons=true\&theme=dark\&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rozangangsar\&layout=compact\&theme=dark\&hide_border=true)
