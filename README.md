@@ -5,26 +5,9 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Wazuh](https://img.shields.io/badge/SIEM-Wazuh-blue?style=for-the-badge&logo=wazuh)
-![Python](https://img.shields.io/badge/Automation-Python-yellow?style=for-the-badge&logo=python)
-![VirusTotal](https://img.shields.io/badge/Intelligence-VirusTotal-blueviolet?style=for-the-badge)
-![Discord](https://img.shields.io/badge/Alerts-Discord-5865F2?style=for-the-badge&logo=discord)
-
-<!-- Streak card -->
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rozangangsar\&theme=dark\&hide_border=true)
-
-<!-- Main stats -->
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rozangangsar\&show_icons=true\&theme=dark\&hide_border=true)
-
-<!-- Top languages -->
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rozangangsar\&layout=compact\&theme=dark\&hide_border=true)
-
-<!-- Trophies -->
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=rozangangsar\&theme=onedark\&no-frame=true\&margin-w=10)
 
 ---
